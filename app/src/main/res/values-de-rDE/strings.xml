@@ -122,7 +122,7 @@
     <string name="sync_failed">"Synchronisierung fehlgeschlagen"</string>
 
     <!-- Fuzzy -->
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Neue Apps"</string>
     <string name="title_categories">"Kategorien"</string>
     <string name="title_latest_updated">"Zuletzt aktualisiert"</string>
@@ -279,7 +279,7 @@
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Tritt der Aurora Support Gruppe für Feedback bei"</string>
     <string name="about_xda">"Entwickler Thread"</string>
-    <string name="about_xda_summary">"Besuche den Aurora Droid XDA Thread für Feedback"</string>
+    <string name="about_xda_summary">"Besuche den LeOS-Droid XDA Thread für Feedback"</string>
     <string name="action_about">"Informationen"</string>
     <string name="action_loading">"Lädt"</string>
     <string name="pref_default">"Standard"</string>

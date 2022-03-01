@@ -50,7 +50,7 @@
     <string name="details_no_description">"Nessuna descrizione fornita dallo sviluppatore"</string>
     <string name="details_no_permissions">"Nessun permesso richiesto."</string>
     <string name="details_permissions">"Permessi dell'app"</string>
-    <string name="details_permissions_desc">"Aurora Droid richiede i seguenti permessi"</string>
+    <string name="details_permissions_desc">"LeOS-Droid richiede i seguenti permessi"</string>
     <string name="details_repo_desc">"Seleziona i repository da sincronizzare"</string>
     <string name="dialog_sync_title">"Aggiornamenti dei repository"</string>
     <string name="dialog_sync_desc">"Vuoi aggiornare le app dai repository?"</string>
@@ -104,7 +104,7 @@
     <string name="sync_completed_all">"Tutti i repository sono sincronizzati"</string>
     <string name="sync_progress">"Sincronizzazione dei repository in corso"</string>
     <string name="sync_failed">"Sincronizzazione fallita"</string>
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Nuove app"</string>
     <string name="title_categories">"Categorie"</string>
     <string name="title_latest_updated">"Ultimi aggiornamenti"</string>
@@ -131,7 +131,7 @@
     <string name="pref_install_mode_native">"Nativo"</string>
     <string name="pref_install_mode_root">"Root"</string>
     <string name="pref_install_mode_services">"Aurora Services"</string>
-    <string name="pref_install_mode_no_root">"Accesso root non disponibile, assicurati di avere abilitato i permessi di root sul tuo dispositivo e di averli concessi ad Aurora Droid."</string>
+    <string name="pref_install_mode_no_root">"Accesso root non disponibile, assicurati di avere abilitato i permessi di root sul tuo dispositivo e di averli concessi ad LeOS-Droid."</string>
     <string name="pref_install_mode_root_warn">"Il metodo di installazione root richiede che l'APK venga scaricato nella cartella di sistema di Aurora affinché possa essere installato via adb shell (su Android Pie e superiore)."</string>
     <string name="pref_install_mode_no_services">"Aurora Services non installati."</string>
     <string name="pref_install_mode_offline_services">"Aurora Services non connessi, assicurati che siano abilitati e di avere installato la versione corretta dell'app (&gt;= 1.0.5)."</string>
@@ -237,11 +237,11 @@
     <string name="about_paypal">"PayPal"</string>
     <string name="about_paypal_summary">"Dona via PayPal"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Ottieni il codice sorgente di Aurora Droid da Aurora OSS su GitLab."</string>
+    <string name="about_gitlab_summary">"Ottieni il codice sorgente di LeOS-Droid da Aurora OSS su GitLab."</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Unisciti al gruppo di supporto di Aurora per discussioni o suggerimenti."</string>
     <string name="about_xda">"Thread dello sviluppatore"</string>
-    <string name="about_xda_summary">"Visita il thread XDA di Aurora Droid per discussioni o suggerimenti."</string>
+    <string name="about_xda_summary">"Visita il thread XDA di LeOS-Droid per discussioni o suggerimenti."</string>
     <string name="action_about">"Informazioni sull'app"</string>
     <string name="action_loading">"Caricamento"</string>
     <string name="pref_default">"Predefinito"</string>

@@ -265,11 +265,11 @@
     <string name="about_paypal">"Paypal"</string>
     <string name="about_paypal_summary">"Dona pro mèdiu de PayPal"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Otene su còdighe mitza de Aurora Droid dae Aurora OSS in GitLab."</string>
+    <string name="about_gitlab_summary">"Otene su còdighe mitza de LeOS-Droid dae Aurora OSS in GitLab."</string>
     <string name="about_telegram">"Telegram"</string>
-    <string name="about_telegram_summary">"Auni·ti a su grupu de suportu de Aurora Droid pro arresonos e impòsitos."</string>
+    <string name="about_telegram_summary">"Auni·ti a su grupu de suportu de LeOS-Droid pro arresonos e impòsitos."</string>
     <string name="about_xda">"Discussione Isvilupadores"</string>
-    <string name="about_xda_summary">"Pòmpia·ti sa discussione de Aurora Droid in XDA pro arresonos o impòsitos."</string>
+    <string name="about_xda_summary">"Pòmpia·ti sa discussione de LeOS-Droid in XDA pro arresonos o impòsitos."</string>
     <string name="action_about">"Informatziones"</string>
     <string name="action_loading">"Carrighende"</string>
     <string name="pref_default">"Predefinidu"</string>

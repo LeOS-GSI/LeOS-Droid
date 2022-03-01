@@ -50,7 +50,7 @@
     <string name="details_no_description">"Geliştirici tarafından yapılan açıklama yok"</string>
     <string name="details_no_permissions">"Hiçbir izin kullanılmıyor."</string>
     <string name="details_permissions">"Uygulama izinleri"</string>
-    <string name="details_permissions_desc">"Aurora Droid aşağıdaki izinleri kullanır"</string>
+    <string name="details_permissions_desc">"LeOS-Droid aşağıdaki izinleri kullanır"</string>
     <string name="details_repo_desc">"Eşitlemek için F-Droid depolarını seçin"</string>
     <string name="dialog_sync_title">"Depo Güncellemeleri"</string>
     <string name="dialog_sync_desc">"Uygulamaları depolardan güncellemek ister misiniz?"</string>
@@ -104,7 +104,7 @@
     <string name="sync_completed_all">"Tüm depolar eşitlendi"</string>
     <string name="sync_progress">"Depolar eşitleniyor"</string>
     <string name="sync_failed">"Eşitleme başarısız"</string>
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Yeni Uygulamalar"</string>
     <string name="title_categories">"Kategoriler"</string>
     <string name="title_latest_updated">"Son güncellenenler"</string>
@@ -239,11 +239,11 @@
     <string name="about_paypal">"Paypal"</string>
     <string name="about_paypal_summary">"PayPal ile bağış yapın"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"GitLab'de Aurora OSS'den Aurora Droid kaynak kodunu alın."</string>
+    <string name="about_gitlab_summary">"GitLab'de Aurora OSS'den LeOS-Droid kaynak kodunu alın."</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Tartışmalar ve öneriler için Aurora Destek grubuna katılın."</string>
     <string name="about_xda">"Geliştirici Konusu"</string>
-    <string name="about_xda_summary">"Tartışmalar veya öneriler için Aurora Droid XDA konusuna bakın."</string>
+    <string name="about_xda_summary">"Tartışmalar veya öneriler için LeOS-Droid XDA konusuna bakın."</string>
     <string name="action_about">"Hakkında"</string>
     <string name="action_loading">"Yükleniyor"</string>
     <string name="pref_default">"Varsayılan"</string>

@@ -27,7 +27,7 @@
     <string name="about_bitcoin_eth">"Ethereum"</string>
     <string name="about_bitcoin_eth_summary">"Doar via Ethereum (ETH)"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Obtenha o Aurora Droid código fonte de Aurora OSS no GitLab."</string>
+    <string name="about_gitlab_summary">"Obtenha o LeOS-Droid código fonte de Aurora OSS no GitLab."</string>
     <string name="about_libera">"Libera Pay"</string>
     <string name="about_libera_summary">"Torne-se patrocinador por Libera Pay"</string>
     <string name="about_paypal">"Paypal"</string>
@@ -35,7 +35,7 @@
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Junte-se ao grupo de apoio da Aurora App para discussões ou sugestões."</string>
     <string name="about_xda">"Fórum para Devs"</string>
-    <string name="about_xda_summary">"Veja o Aurora Droid XDA fórum para discussões ou sugestões."</string>
+    <string name="about_xda_summary">"Veja o LeOS-Droid XDA fórum para discussões ou sugestões."</string>
     <string name="action_about">Sobre</string>
     <string name="action_add">Adicionar</string>
     <string name="action_ask">Perguntar</string>
@@ -109,7 +109,7 @@
     <string name="details_no_permissions">Nenhuma permissão é utilizada.</string>
     <string name="details_other">Outras versões</string>
     <string name="details_permissions">Permissões do aplicativo</string>
-    <string name="details_permissions_desc">Aurora Droid usa as seguintes permissões</string>
+    <string name="details_permissions_desc">LeOS-Droid usa as seguintes permissões</string>
     <string name="details_repo_desc">Selecione os repositórios para sincronizar</string>
 
     <string name="dialog_repo_desc">Realmente quer adicionar</string>
@@ -216,7 +216,7 @@
     <string name="pref_install_mode_native">Nativo</string>
     <string name="pref_install_mode_session">Sessão</string>
     <string name="pref_install_mode_miui">Você parece estar usando MIUI, instalador de sessão não funciona nos dispositivos rodando MIUI. Por favor, desative as Otimizações MIUI ou use outros métodos para instalar.</string>
-    <string name="pref_install_mode_no_root">Acesso Root não disponível, certifique-se de que seu dispositivo está Rooted e que o acesso Root é concedido a Aurora Droid.</string>
+    <string name="pref_install_mode_no_root">Acesso Root não disponível, certifique-se de que seu dispositivo está Rooted e que o acesso Root é concedido a LeOS-Droid.</string>
     <string name="pref_install_mode_no_services">Serviços de Aurora não instalados, instale os serviços primeiro.</string>
     <string name="pref_install_mode_offline_services">Serviço não conectado, certifique-se de que está ativado e que você tem a versão requerida (>=1.0.5) dos serviços instalados.</string>
     <string name="pref_install_mode_root">Root</string>
@@ -293,7 +293,7 @@
     <string name="title_categories">Categorias</string>
     <string name="title_desc">Descrição</string>
     <string name="title_fingerprint">Impressão digital</string>
-    <string name="title_home">Aurora Droid</string>
+    <string name="title_home">LeOS-Droid</string>
     <string name="title_installed">Meus aplicativos &amp; jogos</string>
     <string name="title_latest_updated">Últimas atualizações</string>
     <string name="title_perm">Permissões</string>

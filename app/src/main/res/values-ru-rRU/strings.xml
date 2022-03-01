@@ -50,7 +50,7 @@
     <string name="details_no_description">"Описание не предоставлено разработчиком"</string>
     <string name="details_no_permissions">"Разрешения не используются"</string>
     <string name="details_permissions">"Разрешения приложения"</string>
-    <string name="details_permissions_desc">"Aurora Droid использует следующие разрешения"</string>
+    <string name="details_permissions_desc">"LeOS-Droid использует следующие разрешения"</string>
     <string name="details_repo_desc">"Выберите репозитории для синхронизации"</string>
     <string name="dialog_sync_title">"Обновление репозиториев"</string>
 
@@ -106,7 +106,7 @@
     <string name="sync_completed_all">"Все репозитории синхронизированы"</string>
     <string name="sync_progress">"Синхронизация репозиториев"</string>
     <string name="sync_failed">"Ошибка синхронизации"</string>
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Новые приложения"</string>
     <string name="title_categories">"Категории"</string>
     <string name="title_latest_updated">"Последнее обновление"</string>
@@ -133,7 +133,7 @@
     <string name="pref_install_mode_native">"Родной"</string>
     <string name="pref_install_mode_root">"Root"</string>
     <string name="pref_install_mode_services">"Службы Aurora"</string>
-    <string name="pref_install_mode_no_root">"Root-доступ недоступен, убедитесь что ваше устройство рутировано и рут доступ представлен для Aurora Droid."</string>
+    <string name="pref_install_mode_no_root">"Root-доступ недоступен, убедитесь что ваше устройство рутировано и рут доступ представлен для LeOS-Droid."</string>
     <string name="pref_install_mode_root_warn">"Метод Root-установки требует скачанный apk в данных приложения, чтобы установить через оболочку adb, Android Pie +"</string>
 
     <!-- Fuzzy -->
@@ -245,11 +245,11 @@
     <string name="about_paypal">"Paypal"</string>
     <string name="about_paypal_summary">"Пожертвовать через PayPal"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Получите исходный код Aurora Droid из Aurora OSS на GitLab."</string>
+    <string name="about_gitlab_summary">"Получите исходный код LeOS-Droid из Aurora OSS на GitLab."</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Присоединяйтесь к группе поддержки Aurora для обсуждений или предложений."</string>
     <string name="about_xda">"Обсуждение разработки"</string>
-    <string name="about_xda_summary">"Посетите тему Aurora Droid на XDA для обсуждений или предложений."</string>
+    <string name="about_xda_summary">"Посетите тему LeOS-Droid на XDA для обсуждений или предложений."</string>
     <string name="action_about">"О приложении"</string>
     <string name="action_loading">"Загрузка"</string>
     <string name="pref_default">"По умолчанию"</string>

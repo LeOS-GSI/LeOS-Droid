@@ -116,7 +116,7 @@
     <string name="sync_failed">"Sünkroniseerimine ebaõnnestus"</string>
 
     <!-- Fuzzy -->
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Uued rakendused"</string>
     <string name="title_categories">"Kategooriad"</string>
     <string name="title_latest_updated">"Viimati uuendatud"</string>
@@ -265,11 +265,11 @@
     <string name="about_paypal">"PayPal"</string>
     <string name="about_paypal_summary">"Anneta PayPali kaudu"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Hangi Aurora Droidi lähtekood GitLabi projektist Aurora OSS."</string>
+    <string name="about_gitlab_summary">"Hangi LeOS-Droidi lähtekood GitLabi projektist Aurora OSS."</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Liitu Aurora tugigrupiga arutelu ja soovituste jagamiseks."</string>
     <string name="about_xda">"Arendaja teema"</string>
-    <string name="about_xda_summary">"Vaata Aurora Droidi XDA-teemat arutelu ja soovituste jagamiseks."</string>
+    <string name="about_xda_summary">"Vaata LeOS-Droidi XDA-teemat arutelu ja soovituste jagamiseks."</string>
     <string name="action_about">"Teave"</string>
     <string name="action_loading">"Laadimine"</string>
     <string name="pref_default">"Vaikimisi"</string>

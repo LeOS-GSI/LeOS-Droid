@@ -116,7 +116,7 @@
     <string name="sync_failed">"Falha ao sincronizar"</string>
 
     <!-- Fuzzy -->
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Novas Aplicações"</string>
     <string name="title_categories">"Categorias"</string>
     <string name="title_latest_updated">"Atualizadas recentemente"</string>
@@ -265,11 +265,11 @@
     <string name="about_paypal">"Paypal"</string>
     <string name="about_paypal_summary">"Doar via PayPal"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Obtenha o código fonte do Aurora Droid da Aurora OSS no GitLab."</string>
+    <string name="about_gitlab_summary">"Obtenha o código fonte do LeOS-Droid da Aurora OSS no GitLab."</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Junte-se ao grupo de apoio Aurora para discussões ou sugestões."</string>
     <string name="about_xda">"Tópico de desenvolvimento"</string>
-    <string name="about_xda_summary">"Ver o tópico Aurora Droid XDA para discussões ou sugestões."</string>
+    <string name="about_xda_summary">"Ver o tópico LeOS-Droid XDA para discussões ou sugestões."</string>
     <string name="action_about">"Sobre"</string>
     <string name="action_loading">"A carregar"</string>
     <string name="pref_default">"Predefinição"</string>

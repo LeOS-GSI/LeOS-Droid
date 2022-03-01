@@ -27,7 +27,7 @@
     <string name="about_bitcoin_eth">"Ethereum"</string>
     <string name="about_bitcoin_eth_summary">"Donate via Ethereum (ETH)"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Get the Aurora Droid source code from Aurora OSS on GitLab."</string>
+    <string name="about_gitlab_summary">"Get the LeOS-Droid source code from Aurora OSS on GitLab."</string>
     <string name="about_libera">"Libera Pay"</string>
     <string name="about_libera_summary">"Become patron on Libera Pay"</string>
     <string name="about_paypal">"Paypal"</string>
@@ -35,7 +35,7 @@
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Join the Aurora Support group for discussions or suggestions."</string>
     <string name="about_xda">"Dev Thread"</string>
-    <string name="about_xda_summary">"See the Aurora Droid XDA thread for discussions or suggestions."</string>
+    <string name="about_xda_summary">"See the LeOS-Droid XDA thread for discussions or suggestions."</string>
     <string name="action_about">About</string>
     <string name="action_add">Add</string>
     <string name="action_ask">Ask</string>
@@ -114,7 +114,7 @@
     <string name="details_no_permissions">No permissions are used.</string>
     <string name="details_other">Other versions</string>
     <string name="details_permissions">App permissions</string>
-    <string name="details_permissions_desc">Aurora Droid uses following permissions</string>
+    <string name="details_permissions_desc">LeOS-Droid uses following permissions</string>
     <string name="details_repo_desc">Select repositories to sync</string>
 
     <string name="dialog_repo_desc">Do you really wish to add</string>
@@ -222,7 +222,7 @@
     <string name="pref_install_mode_native">Native</string>
     <string name="pref_install_mode_session">Session</string>
     <string name="pref_install_mode_miui">You seem to be using MIUI, session installer does not work on devices running MIUI. Kindly disable MIUI Optimizations or use other installation methods.</string>
-    <string name="pref_install_mode_no_root">Root access not available, make sure your device is rooted and root access is granted to Aurora Droid.</string>
+    <string name="pref_install_mode_no_root">Root access not available, make sure your device is rooted and root access is granted to LeOS-Droid.</string>
     <string name="pref_install_mode_no_services">Aurora Services not installed, kindly install services first.</string>
     <string name="pref_install_mode_offline_services">Service not connected, kindly make sure it is enabled and you have correct version (>=1.0.5) of services installed.</string>
     <string name="pref_install_mode_root">Root</string>
@@ -301,7 +301,7 @@
     <string name="title_categories">Categories</string>
     <string name="title_desc">Description</string>
     <string name="title_fingerprint">Fingerprint</string>
-    <string name="title_home">Aurora Droid</string>
+    <string name="title_home">LeOS-Droid</string>
     <string name="title_installed">My apps &amp; games</string>
     <string name="title_latest_updated">Latest updates</string>
     <string name="title_perm">Permissions</string>

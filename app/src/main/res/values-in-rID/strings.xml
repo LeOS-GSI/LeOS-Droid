@@ -52,7 +52,7 @@
     <string name="details_no_description">"Tak ada deskripsi yang diberikan oleh pengembang"</string>
     <string name="details_no_permissions">"Tak ada izin yang di minta"</string>
     <string name="details_permissions">"Perizinan Aplikasi"</string>
-    <string name="details_permissions_desc">"Aurora Droid meminta izin berikut"</string>
+    <string name="details_permissions_desc">"LeOS-Droid meminta izin berikut"</string>
     <string name="details_repo_desc">"Pilih Repositori Untuk Disinkronkan"</string>
     <string name="dialog_sync_title">"Pembaruan Repo"</string>
     <string name="dialog_sync_desc">"Apa kamu ingin memperbarui aplikasi dari repositori?"</string>
@@ -106,7 +106,7 @@
     <string name="sync_completed_all">"Semua repositori disinkronkan"</string>
     <string name="sync_progress">"Menyinkronkan repositori"</string>
     <string name="sync_failed">"Sinkronisasi gagal"</string>
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Aplikasi Terbaru"</string>
     <string name="title_categories">"Kategori"</string>
     <string name="title_latest_updated">"Baru saja diperbarui"</string>
@@ -239,11 +239,11 @@
     <string name="about_paypal">"Paypal"</string>
     <string name="about_paypal_summary">"Donasi via Paypal"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Dapatkan source code Aurora Droid dari Aurora OSS di GitLab"</string>
+    <string name="about_gitlab_summary">"Dapatkan source code LeOS-Droid dari Aurora OSS di GitLab"</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Bergabunglah dengan Aurora Support grup untuk diskusi atau saran"</string>
     <string name="about_xda">"Thread Pengembang"</string>
-    <string name="about_xda_summary">"Lihat Aurora Droid DI XDA untuk diskusi atau saran"</string>
+    <string name="about_xda_summary">"Lihat LeOS-Droid DI XDA untuk diskusi atau saran"</string>
     <string name="action_about">"Tentang"</string>
     <string name="action_loading">"Memuat"</string>
     <string name="pref_default">"Default"</string>

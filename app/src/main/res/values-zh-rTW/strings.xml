@@ -9,7 +9,7 @@
     <string name="about_bitcoin_eth">乙太幣</string>
     <string name="about_bitcoin_eth_summary">透過乙太幣 (ETH) 捐贈</string>
     <string name="about_gitlab">GitLab</string>
-    <string name="about_gitlab_summary">於 GitLab 上的 Aurora OSS 取得 Aurora Droid 的原始碼。</string>
+    <string name="about_gitlab_summary">於 GitLab 上的 Aurora OSS 取得 LeOS-Droid 的原始碼。</string>
     <string name="about_libera">Libera Pay</string>
     <string name="about_libera_summary">透過 Libe​​ra Pay 成為贊助人</string>
     <string name="about_paypal">Paypal</string>
@@ -17,7 +17,7 @@
     <string name="about_telegram">Telegram</string>
     <string name="about_telegram_summary">加入 Aurora 支援群組進行討論或提供建議。</string>
     <string name="about_xda">開發者討論區</string>
-    <string name="about_xda_summary">加入 Aurora Droid 的 XDA 討論帖進行討論或提供建議。</string>
+    <string name="about_xda_summary">加入 LeOS-Droid 的 XDA 討論帖進行討論或提供建議。</string>
     <string name="action_about">關於</string>
     <string name="action_add">新增</string>
     <string name="action_ask">詢問</string>
@@ -78,7 +78,7 @@
     <string name="app_details_settings">設定</string>
     <string name="app_details_source">原始碼</string>
     <string name="app_details_website">網站</string>
-    <string name="app_name_long">Aurora Droid - App store</string>
+    <string name="app_name_long">LeOS-Droid - App store</string>
     <string name="cancel_button_label">取消</string>
     <string name="choose_button_label">選擇</string>
     <string name="details_anti_features">可能的有害行為</string>
@@ -94,7 +94,7 @@
     <string name="details_no_permissions">不使用權限。</string>
     <string name="details_other">其他版本</string>
     <string name="details_permissions">應用程式權限</string>
-    <string name="details_permissions_desc">Aurora Droid 使用下列權限</string>
+    <string name="details_permissions_desc">LeOS-Droid 使用下列權限</string>
     <string name="details_repo_desc">選擇要同步的版本庫</string>
     <string name="dialog_repo_desc">您確定要新增</string>
     <string name="dialog_repo_list">版本庫列表</string>
@@ -190,7 +190,7 @@
     <string name="pref_install_delete_title">安裝後刪除 APK</string>
     <string name="pref_install_mode_miui">您似乎正在使用 MIUI，單一安裝程序在運行 MIUI 的裝置上無法使用。請禁用 MIUI 優化或使用其他安裝方法。</string>
     <string name="pref_install_mode_native">原生</string>
-    <string name="pref_install_mode_no_root">無法使用 Root 權限，請確保您的裝置已取得 Root 權限，並授予 Aurora Droid 此權限。</string>
+    <string name="pref_install_mode_no_root">無法使用 Root 權限，請確保您的裝置已取得 Root 權限，並授予 LeOS-Droid 此權限。</string>
     <string name="pref_install_mode_no_services">Aurora 服務尚未安裝，請先安裝此服務。</string>
     <string name="pref_install_mode_offline_services">無法連接服務，請確保您已啟用該服務，並且已安裝正確的版本 (> = 1.0.5)。</string>
     <string name="pref_install_mode_root">Root</string>
@@ -266,7 +266,7 @@
     <string name="title_categories">分類</string>
     <string name="title_desc">敘述</string>
     <string name="title_fingerprint">指紋</string>
-    <string name="title_home">Aurora Droid</string>
+    <string name="title_home">LeOS-Droid</string>
     <string name="title_installed">我的應用程式 &amp; 遊戲</string>
     <string name="title_latest_updated">最新更新</string>
     <string name="title_perm">權限</string>

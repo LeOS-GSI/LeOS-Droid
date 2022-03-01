@@ -118,7 +118,7 @@
     <string name="sync_failed">"Échec de la synchronisation"</string>
 
     <!-- Fuzzy -->
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Nouvelles Applications"</string>
     <string name="title_categories">"Catégories"</string>
     <string name="title_latest_updated">"Dernière mise à jour"</string>

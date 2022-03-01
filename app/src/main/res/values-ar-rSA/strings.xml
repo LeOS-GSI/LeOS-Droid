@@ -116,7 +116,7 @@
     <string name="sync_failed">"فشلت المزامنة"</string>
 
     <!-- Fuzzy -->
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"تطبيقات جديدة"</string>
     <string name="title_categories">"الفئات"</string>
     <string name="title_latest_updated">"المحدثة مؤخرا"</string>
@@ -265,11 +265,11 @@
     <string name="about_paypal">"بايبال"</string>
     <string name="about_paypal_summary">"دعم عبر بيبال"</string>
     <string name="about_gitlab">"جيتلاب"</string>
-    <string name="about_gitlab_summary">"احصل على الشفرة المصدرية  Aurora Droid من Aurora OSS على GitLab."</string>
+    <string name="about_gitlab_summary">"احصل على الشفرة المصدرية  LeOS-Droid من Aurora OSS على GitLab."</string>
     <string name="about_telegram">"تيلجرام"</string>
     <string name="about_telegram_summary">"انضم إلى مجموعة Aurora Support للمناقشات أو الاقتراحات."</string>
     <string name="about_xda">"صفحة المطور"</string>
-    <string name="about_xda_summary">"راجع سلسلة Aurora Droid XDA للمناقشات أو الاقتراحات"</string>
+    <string name="about_xda_summary">"راجع سلسلة LeOS-Droid XDA للمناقشات أو الاقتراحات"</string>
     <string name="action_about">"حول"</string>
     <string name="action_loading">"يتم التحميل"</string>
     <string name="pref_default">"الافتراضية"</string>

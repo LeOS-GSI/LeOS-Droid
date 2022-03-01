@@ -1,4 +1,4 @@
-Aurora Droid is an unofficial, FOSS client for F-Droid. 
+Leos-Droid is an unofficial, FOSS client for F-Droid. 
 
 Features :
 1. Free/Libre software - Has GPLv3 License

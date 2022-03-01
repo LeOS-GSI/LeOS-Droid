@@ -73,7 +73,7 @@ android {
             resValue "string", "app_name", "LeOS-Droid - Beta"
         }
         debug {
-            resValue "string", "app_name", "LeOS-Droid - Debug"
+            resValue "string", "app_name", "LeOS-Droid"
         }
     }
 }

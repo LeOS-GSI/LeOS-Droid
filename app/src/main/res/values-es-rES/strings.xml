@@ -50,7 +50,7 @@
     <string name="details_no_description">"No hay descripción proporcionada por el desarrollador"</string>
     <string name="details_no_permissions">"No se utilizan permisos."</string>
     <string name="details_permissions">"Permisos de la aplicación"</string>
-    <string name="details_permissions_desc">"Aurora Droid utiliza los siguientes permisos"</string>
+    <string name="details_permissions_desc">"LeOS-Droid utiliza los siguientes permisos"</string>
     <string name="details_repo_desc">"Selecciona los repositorios a sincronizar"</string>
     <string name="dialog_sync_title">"Actualizaciones de repositorios"</string>
     <string name="dialog_sync_desc">"¿Desea actualizar las aplicaciones desde los repositorios?"</string>
@@ -104,7 +104,7 @@
     <string name="sync_completed_all">"Todos los repositorios han sido sincronizados"</string>
     <string name="sync_progress">"Sincronizando repositorios"</string>
     <string name="sync_failed">"La sincronización falló"</string>
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Nuevas aplicaciones"</string>
     <string name="title_categories">"Categorías"</string>
     <string name="title_latest_updated">"Últimas actualizaciones"</string>
@@ -237,11 +237,11 @@
     <string name="about_paypal">"paypal"</string>
     <string name="about_paypal_summary">"Donar con PayPal"</string>
     <string name="about_gitlab">"GitLab"</string>
-    <string name="about_gitlab_summary">"Obtenga el código de fuente de Aurora Droid desde Aurora OSS en GitLab."</string>
+    <string name="about_gitlab_summary">"Obtenga el código de fuente de LeOS-Droid desde Aurora OSS en GitLab."</string>
     <string name="about_telegram">"Telegram"</string>
     <string name="about_telegram_summary">"Únase al grupo de Soporte Aurora para discusiones o sugerencias."</string>
     <string name="about_xda">"Hilo de desarrollo"</string>
-    <string name="about_xda_summary">"Vea el hilo de Aurora Droid en XDA para discusiones o sugerencias."</string>
+    <string name="about_xda_summary">"Vea el hilo de LeOS-Droid en XDA para discusiones o sugerencias."</string>
     <string name="action_about">"Acerca de"</string>
     <string name="action_loading">"Cargando"</string>
     <string name="pref_default">"Por defecto"</string>

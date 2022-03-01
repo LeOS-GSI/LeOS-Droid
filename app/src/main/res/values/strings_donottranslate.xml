@@ -27,10 +27,10 @@
     <string name="download_speed_kb" translatable="false">%1$s KB/s</string>
     <string name="download_speed_mb" translatable="false">%1$s MB/s</string>
 
-    <string name="string_aurora" translatable="false">Aurora</string>
+    <string name="string_aurora" translatable="false">LeOS</string>
     <string name="string_droid" translatable="false">Droid</string>
-    <string name="string_aurora_droid" translatable="false">Aurora Droid</string>
-    <string name="string_aurora_desc" translatable="false">F-Droid client by Aurora OSS</string>
+    <string name="string_aurora_droid" translatable="false">LeOS Droid</string>
+    <string name="string_aurora_desc" translatable="false">F-Droid client by LeOS</string>
 
     <string name="default_dir" translatable="false">/sdcard</string>
 

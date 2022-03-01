@@ -104,7 +104,7 @@
     <string name="sync_completed_all">"Wszystkie repozytoria zynchronizowane"</string>
     <string name="sync_progress">"Synchronizacja repozytorium"</string>
     <string name="sync_failed">"Synchronizacja zakończona niepowodzeniem"</string>
-    <string name="title_home">"Aurora Droid"</string>
+    <string name="title_home">"LeOS-Droid"</string>
     <string name="title_apps_new">"Nowe aplikacje"</string>
     <string name="title_categories">"Kategorie"</string>
     <string name="title_latest_updated">"Ostatnio zaktualizowane"</string>
