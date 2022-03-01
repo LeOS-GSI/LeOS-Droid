@@ -1,0 +1,43 @@
+diff --git a/app/src/main/assets/repo.json b/app/src/main/assets/repo.json
+index d959cf2..b2132b7 100644
+--- a/app/src/main/assets/repo.json
++++ b/app/src/main/assets/repo.json
+@@ -32,19 +32,11 @@
+   },
+   {
+     "repoId": "04",
+-    "repoName": "microG Project",
+-    "repoUrl": "https://microg.org/fdroid/repo",
++    "repoName": " LeOS",
++    "repoUrl": "https://raw.githubusercontent.com/nonaybay/newomega/master/fdroid/repo",
+     "repoMirrors": [],
+-    "repoFingerprint": "9B D0 67 27 E6 27 96 C0 13 0E B6 DA B3 9B 73 15 74 51 58 2C BD 13 8E 86 C4 68 AC C3 95 D1 41 65",
+-    "repoDescription": "Official F-Droid repo for the open-source implementation of Google Play Services."
+-  },
+-  {
+-    "repoId": "05",
+-    "repoName": "microG Project Archive",
+-    "repoUrl": "https://microg.org/fdroid/archive",
+-    "repoMirrors": [],
+-    "repoFingerprint": "9B D0 67 27 E6 27 96 C0 13 0E B6 DA B3 9B 73 15 74 51 58 2C BD 13 8E 86 C4 68 AC C3 95 D1 41 65",
+-    "repoDescription": "Official F-Droid archive for the open-source implementation of Google Play Services."
++    "repoFingerprint": "D1645F01472D9E5E6A8FABC462999B0CAAD6C0767F4E85A5330527BB299BB41E",
++    "repoDescription": "Omeg and friends repo with all ungoogled LeOS-Apps"
+   },
+   {
+     "repoId": "07",
+@@ -94,14 +86,6 @@
+     "repoFingerprint": "A8 2C 68 E1 4A F0 AA 6A 2E C2 0E 6B 27 2E FF 25 E5 A0 38 F3 F6 58 84 31 6E 0F 5E 0D 91 E7 B7 13",
+     "repoDescription": "An Android Monero wallet."
+   },
+-  {
+-    "repoId": "16",
+-    "repoName": "Nanodroid",
+-    "repoUrl": "https://nanolx.org/fdroid/repo",
+-    "repoMirrors": [],
+-    "repoFingerprint": "86 2E D9 F1 3A 39 81 43 2B F8 6F E9 3D 14 59 6B 38 1D 75 BE 83 A1 D6 16 E2 D4 4A 12 65 4A D0 15",
+-    "repoDescription": "NanoDroid is a installer for various OpenSource related things, most noticably microG and F-Droid. It supports direct /system installation, both devices with or without A/B partition scheme, aswell as Magisk Mode (module) installation. It also includes several tools (eg. GNU Bash, GNU Nano, more), scripts, fonts, sounds and additional features (system debloating, init scripts, automatic logcat creation), aswell as a companion F-Droid Repository."
+-  },
+   {
+     "repoId": "17",
+     "repoName": "Netsyms Technologies",
