@@ -1,0 +1,57 @@
+<!--
+  ~ Aurora Droid
+  ~ Copyright (C) 2019-20, Rahul Kumar Patel <whyorean@gmail.com>
+  ~
+  ~ Aurora Droid is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Aurora Droid is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Aurora Droid.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        app:icon="@drawable/ic_downloads"
+        android:key="PREFERENCE_DOWNLOAD_ENTRY"
+        app:layout="@layout/item_preference"
+        app:title="@string/pref_downloads" />
+
+    <Preference
+        app:icon="@drawable/ic_installation"
+        android:key="PREFERENCE_INSTALLATION_ENTRY"
+        app:layout="@layout/item_preference"
+        app:title="@string/pref_installations" />
+
+    <Preference
+        app:icon="@drawable/ic_language"
+        android:key="PREFERENCE_LANGUAGE_ENTRY"
+        app:layout="@layout/item_preference"
+        app:title="@string/pref_locale_title" />
+
+    <Preference
+        app:icon="@drawable/ic_network"
+        android:key="PREFERENCE_NETWORK_ENTRY"
+        app:layout="@layout/item_preference"
+        app:title="@string/pref_network" />
+
+    <Preference
+        android:key="PREFERENCE_UI_ENTRY"
+        app:icon="@drawable/ic_ui"
+        app:layout="@layout/item_preference"
+        app:title="@string/pref_ui" />
+
+    <Preference
+        app:icon="@drawable/ic_update"
+        android:key="PREFERENCE_UPDATE_ENTRY"
+        app:layout="@layout/item_preference"
+        app:title="@string/pref_updates_title" />
+</androidx.preference.PreferenceScreen>

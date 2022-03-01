@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Aurora Droid
+  ~ Copyright (C) 2019-20, Rahul Kumar Patel <whyorean@gmail.com>
+  ~
+  ~ Aurora Droid is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Aurora Droid is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Aurora Droid.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:overScrollMode="never"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- App Info : Icon, Name, Package, Developer, Version -->
+        <include layout="@layout/include_details_info" />
+
+        <!-- Action : Download, Update, Uninstall -->
+        <include layout="@layout/include_details_subinfo" />
+
+        <!-- Action : Download, Update, Uninstall -->
+        <include layout="@layout/include_details_actions" />
+
+        <!--Short description of app-->
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/txt_summary"
+            style="@style/AuroraTextStyle.Line2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_medium"
+            android:background="@drawable/generic_bg"
+            android:gravity="center"
+            android:minHeight="56dp"
+            android:maxLines="3"
+            android:padding="@dimen/margin_small"
+            android:textAlignment="center"
+            android:visibility="gone" />
+
+        <!--Read more description of app-->
+        <com.aurora.adroid.ui.view.HeaderLayout
+            android:id="@+id/layout_read_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:iconAction="@drawable/ic_arrow"
+            app:txtHeader="@string/details_more" />
+
+        <!-- Screenshot -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/screenshots_gallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:clipToPadding="false"
+            android:orientation="horizontal"
+            android:paddingStart="@dimen/margin_small"
+            android:paddingEnd="@dimen/margin_small"
+            android:visibility="gone"
+            tools:itemCount="4"
+            tools:listitem="@layout/item_screenshots_small"
+            tools:visibility="visible" />
+
+        <com.aurora.adroid.ui.view.HeaderLayout
+            android:id="@+id/layout_other_version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:iconAction="@drawable/ic_expand"
+            app:txtHeader="@string/details_other" />
+
+        <RelativeLayout
+            android:id="@+id/layout_version"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/package_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:clipToPadding="false"
+                android:orientation="horizontal"
+                android:overScrollMode="never"
+                android:paddingStart="@dimen/margin_small"
+                android:paddingEnd="@dimen/margin_small"
+                tools:listitem="@layout/item_screenshots_small" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_developer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:orientation="vertical"
+            android:visibility="gone"
+            tools:visibility="visible">
+
+            <com.aurora.adroid.ui.view.HeaderLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:txtHeader="@string/details_more_apps_dev" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_developer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/margin_small"
+                android:paddingEnd="@dimen/margin_small"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:listitem="@layout/item_cluster" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_similar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:orientation="vertical"
+            android:visibility="gone"
+            tools:visibility="visible">
+
+            <com.aurora.adroid.ui.view.HeaderLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:txtHeader="@string/details_more_apps_similar" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_similar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/margin_small"
+                android:paddingEnd="@dimen/margin_small"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:listitem="@layout/item_cluster" />
+        </LinearLayout>
+
+        <!-- Links -->
+        <include layout="@layout/include_details_links" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

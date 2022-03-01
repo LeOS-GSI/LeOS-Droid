@@ -1,0 +1,209 @@
+[
+  {
+    "repoId": "01",
+    "repoName": "F-Droid",
+    "repoUrl": "https://f-droid.org/repo",
+    "repoMirrors": [
+      "https://mirror.cyberbits.eu/fdroid/repo"
+    ],
+    "repoFingerprint": "43 23 8D 51 2C 1E 5E B2 D6 56 9F 4A 3A FB F5 52 34 18 B8 2E 0A 3E D1 55 27 70 AB B9 A9 C9 CC AB",
+    "repoDescription": "F-Droid's mainline repository, serving apps build and signed by F-Droid."
+  },
+  {
+    "repoId": "02",
+    "repoName": "F-Droid Archive",
+    "repoUrl": "https://f-droid.org/archive",
+    "repoMirrors": [
+      "https://ftp.fau.de/fdroid/archive",
+      "https://bubu1.eu/fdroid/archive"
+    ],
+    "repoFingerprint": "43 23 8D 51 2C 1E 5E B2 D6 56 9F 4A 3A FB F5 52 34 18 B8 2E 0A 3E D1 55 27 70 AB B9 A9 C9 CC AB",
+    "repoDescription": "F-Droid's mainline repository, serving apps build and signed by F-Droid."
+  },
+  {
+    "repoId": "03",
+    "repoName": "Guardian Project",
+    "repoUrl": "https://guardianproject.info/fdroid/repo",
+    "repoMirrors": [
+      "https://s3.amazonaws.com/guardianproject/fdroid/repo"
+    ],
+    "repoFingerprint": "B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35",
+    "repoDescription": "Guardian Project's mainline repository."
+  },
+  {
+    "repoId": "04",
+    "repoName": " LeOS",
+    "repoUrl": "https://raw.githubusercontent.com/nonaybay/newomega/master/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "D1645F01472D9E5E6A8FABC462999B0CAAD6C0767F4E85A5330527BB299BB41E",
+    "repoDescription": "Omeg and friends repo with all ungoogled LeOS-Apps"
+  },
+  {
+    "repoId": "07",
+    "repoName": "IzzyOnDroid",
+    "repoUrl": "https://apt.izzysoft.de/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "3B F0 D6 AB FE AE 2F 40 17 07 B6 D9 66 BE 74 3B F0 EE E4 9C 25 61 B9 BA 39 07 37 11 F6 28 93 7A",
+    "repoDescription": "Applications in this repository are official binaries built by the original application developers, taken from their repositories."
+  },
+  {
+    "repoId": "08",
+    "repoName": "Briar",
+    "repoUrl": "https://briarproject.org/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6",
+    "repoDescription": "Messenger that does require any server and hides metadata."
+  },
+  {
+    "repoId": "09",
+    "repoName": "Bromite",
+    "repoUrl": "https://fdroid.bromite.org/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "E1 EE 5C D0 76 D7 B0 DC 84 CB 2B 45 FB 78 B8 6D F2 EB 39 A3 B6 C5 6B A3 DC 29 2A 5E 0C 3B 95 04",
+    "repoDescription": "Bromite is Chromium plus ad blocking and enhanced privacy; take back your browser."
+  },
+  {
+    "repoId": "11",
+    "repoName": "Riot",
+    "repoUrl": "https://fdroid.krombel.de/riot-stable/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "",
+    "repoDescription": "Riot Messenger."
+  },
+  {
+    "repoId": "14",
+    "repoName": "Umbrella",
+    "repoUrl": "https://secfirst.org/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "39 EB 57 05 2F 8D 68 45 14 17 68 19 D1 64 5F 6A 0A 7B D9 43 DB C3 1A B1 01 94 90 06 AC 0B C2 28",
+    "repoDescription": "Security advices, tutorials, etc."
+  },
+  {
+    "repoId": "15",
+    "repoName": "Monerujo",
+    "repoUrl": "https://f-droid.monerujo.io/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "A8 2C 68 E1 4A F0 AA 6A 2E C2 0E 6B 27 2E FF 25 E5 A0 38 F3 F6 58 84 31 6E 0F 5E 0D 91 E7 B7 13",
+    "repoDescription": "An Android Monero wallet."
+  },
+  {
+    "repoId": "17",
+    "repoName": "Netsyms Technologies",
+    "repoUrl": "https://repo.netsyms.com/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "25 81 BA 7B 32 D3 AB 44 31 80 C4 08 7C AB 6A 7E 8F B2 58 D3 A6 E9 88 70 EC B3 C6 75 E4 D6 44 89",
+    "repoDescription": "Open source apps created by Netsyms Technologies. Includes NotePost (Google Keep alternative), TerranQuest (similar to Pokemon Go), and a few other apps."
+  },
+  {
+    "repoId": "19",
+    "repoName": "KDE Android",
+    "repoUrl": "https://cdn.kde.org/android/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "B3 EB E1 0A FA 6C 5C 40 03 79 B3 44 73 E8 43 D6 86 C6 1A E6 AD 33 F4 23 C9 8A F9 03 F0 56 52 3F",
+    "repoDescription": "KDE Android nightly builds."
+  },
+  {
+    "repoId": "21",
+    "repoName": "Unofficial Mozilla",
+    "repoUrl": "https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "8F 99 2B BB A0 34 0E FE 62 99 C7 A4 10 B3 6D 9C 88 89 11 4C A6 C5 80 13 C3 58 7C DA 41 1B 4A ED",
+    "repoDescription": "Unofficial build of Mozilla apps for Android."
+  },
+  {
+    "repoId": "24",
+    "repoName": "Frostnerd",
+    "repoUrl": "https://fdroid.frostnerd.com/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26",
+    "repoDescription": "FOSS apps made by Frostnerd.com."
+  },
+  {
+    "repoId": "25",
+    "repoName": "Zeronet",
+    "repoUrl": "https://f-droid.mkg20001.io/repos/jVVkbOD2it_bf_UxFIGGh1qa950KrUsq/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "00 5E 88 8A 5A 20 3D 40 E2 8F 37 2B 93 9B 8E 59 95 FB 29 08 1E FC 84 5D B9 9A 8D 4C 14 B5 09 E2",
+    "repoDescription": "ZeroNet Android App Nightlies & Stable Releases."
+  },
+  {
+    "repoId": "26",
+    "repoName": "Kali Nethunter",
+    "repoUrl": "https://store.nethunter.com/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94",
+    "repoDescription": "Kali NetHunter, apps in this repository are official binaries built by the original application developers."
+  },
+  {
+    "repoId": "27",
+    "repoName": "Bitwarden",
+    "repoUrl": "https://mobileapp.bitwarden.com/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "BC 54 EA 6F D1 CD 51 75 BC CC C4 7C 56 1C 57 26 E1 C3 ED 7E 68 6B 6D B4 B1 8B AC 84 3A 3E FE 6C",
+    "repoDescription": "Bitwarden repository."
+  },
+  {
+    "repoId": "28",
+    "repoName": "LibRetro",
+    "repoUrl": "https://fdroid.libretro.com/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "",
+    "repoDescription": "This repository has the bleeding edge builds of RetroArch."
+  },
+  {
+    "repoId": "29",
+    "repoName": "LibRetro Archive",
+    "repoUrl": "https://fdroid.libretro.com/archive",
+    "repoMirrors": [],
+    "repoFingerprint": "",
+    "repoDescription": "This repository has the old builds of RetroArch."
+  },
+  {
+    "repoId": "30",
+    "repoName": "Ungoogled Chromium",
+    "repoUrl": "https://www.droidware.info/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "21 44 44 9A B1 DD 27 0E C3 1B 60 87 40 9B 5D 0E A3 9A 75 A9 F2 90 DA 62 AC 1B 23 8A 0E AA F8 51",
+    "repoDescription": "Google Chromium, sans dependency on Google web services. It also features some tweaks to enhance privacy, control, and transparency."
+  },
+  {
+    "repoId": "31",
+    "repoName": "Divest OS",
+    "repoUrl": "https://divestos.org/fdroid/official",
+    "repoMirrors": [],
+    "repoFingerprint": "E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67",
+    "repoDescription": "Official repository for DivestOS Mobile."
+  },
+  {
+    "repoId": "32",
+    "repoName": "Newpipe",
+    "repoUrl": "https://archive.newpipe.net/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "E2 40 2C 78 F9 B9 7C 6C 89 E9 7D B9 14 A2 75 1F DA 1D 02 FE 20 39 CC 08 97 A4 62 BD B5 7E 75 01",
+    "repoDescription": "Repository for Newpipe app. Builds here may be newer than on F-Droid."
+  },
+  {
+    "repoId": "33",
+    "repoName": "Collabora Office",
+    "repoUrl": "https://www.collaboraoffice.com/downloads/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "57 32 58 c8 4e 14 9b 5f 4d 92 99 e7 43 4b 2b 69 a8 41 03 72 92 1d 4a e5 86 ba 91 ec 76 78 92 cc",
+    "repoDescription": "Collabora Office is a powerful text editor, spreadsheet, and presentation program based on the LibreOffice technology. LibreOffice is the world's most popular open source office suite."
+  },
+  {
+    "repoId": "34",
+    "repoName": "FluffyChat Stable",
+    "repoUrl": "https://fdroid.fluffychat.im",
+    "repoMirrors": [],
+    "repoFingerprint": "8e 26 37 ae f6 69 7c c6 dd 48 6a f0 44 a6 ee 45 b1 a7 42 ae 3e f5 65 66 e7 48 cd e8 bc 65 c1 fb",
+    "repoDescription": "FluffyChat is a messenger for the Matrix chat network. Official repository for normal stable builds."
+  },
+  {
+    "repoId": "35",
+    "repoName": "FluffyChat Nightly",
+    "repoUrl": "https://nightly.fdroid.fluffychat.im",
+    "repoMirrors": [],
+    "repoFingerprint": "21 a4 69 65 73 00 57 64 78 b6 23 df 99 d8 eb 88 9a 80 bc d9 39 ac a6 0a 40 74 74 1b ea ec 39 7d",
+    "repoDescription": "FluffyChat is a messenger for the Matrix chat network. Official repository for nightly builds."
+  }
+]

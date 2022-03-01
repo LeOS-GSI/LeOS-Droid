@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Aurora Droid
+  ~ Copyright (C) 2019-20, Rahul Kumar Patel <whyorean@gmail.com>
+  ~
+  ~ Aurora Droid is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Aurora Droid is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Aurora Droid.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="progressText" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="EmptyView">
+        <attr name="emptyImage" format="reference" />
+        <attr name="emptyText" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="MultiTextLayout">
+        <attr name="txtPrimary" format="string" />
+        <attr name="txtSecondary" format="string" />
+        <attr name="txtColorPrimary" format="color" />
+        <attr name="txtColorSecondary" format="color" />
+        <attr name="colorDivider" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="HeaderLayout">
+        <attr name="txtHeader" format="string" />
+        <attr name="iconHeader" format="reference" />
+        <attr name="iconAction" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="FilePickerPreference">
+        <attr name="selectionMode" format="enum">
+            <enum name="single" value="0" />
+            <enum name="multi" value="1" />
+        </attr>
+        <attr name="selectionType" format="enum">
+            <enum name="file" value="0" />
+            <enum name="directory" value="1" />
+            <enum name="both" value="2" />
+        </attr>
+        <attr name="rootDir" format="string" />
+        <attr name="fallbackDir" format="string" />
+        <attr name="offsetDir" format="string" />
+        <attr name="extensions" format="string" />
+        <attr name="txtTitle" format="string" />
+    </declare-styleable>
+</resources>

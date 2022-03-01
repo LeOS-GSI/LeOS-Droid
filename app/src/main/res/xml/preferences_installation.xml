@@ -1,0 +1,61 @@
+<!--
+  ~ Aurora Droid
+  ~ Copyright (C) 2019-20, Rahul Kumar Patel <whyorean@gmail.com>
+  ~
+  ~ Aurora Droid is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Aurora Droid is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Aurora Droid.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false"
+        app:key="PREFERENCE_INSTALLATION_AUTO"
+        app:summary="@string/pref_install_auto_summary"
+        app:title="@string/pref_install_auto_title" />
+
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false"
+        app:key="PREFERENCE_INSTALLATION_DELETE"
+        app:summary="@string/pref_install_delete_summary"
+        app:title="@string/pref_install_delete_title" />
+
+    <ListPreference
+        app:defaultValue="3"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false"
+        app:entries="@array/pref_installation_method"
+        app:entryValues="@array/pref_installation_method_values"
+        app:key="PREFERENCE_INSTALLATION_METHOD"
+        app:useSimpleSummaryProvider="true"
+        app:summary="@string/pref_install_mode_summary"
+        app:title="@string/pref_install_mode_title" />
+
+    <ListPreference
+        app:defaultValue="0"
+        app:iconSpaceReserved="false"
+        app:key="PREFERENCE_INSTALLATION_PROFILE"
+        app:summary="@string/pref_install_profile_summary"
+        app:title="@string/pref_install_profile_title" />
+
+    <Preference
+        app:key="PREFERENCE_LAUNCH_SERVICES"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false"
+        app:summary="@string/pref_services_desc"
+        app:title="@string/pref_services_title" />
+</androidx.preference.PreferenceScreen>
