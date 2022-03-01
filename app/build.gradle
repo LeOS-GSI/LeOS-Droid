@@ -30,7 +30,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 8
-        versionName "1.0.8"
+        versionName "12"
 
         resConfigs "ar-rSA", "de-rDE", "et-rEE", "fr-rFR", "hi-rIN", "kn-rIN", "ml-rIN", "pa-rIN", "pl-rPL", "pt-rBR","pt-rPT", "ro-rRO", "ru-rRU", "sc-rIT", "tr-rTR", "es-rES", "in-rID", "it-rIT", "zh-rTW"
 
@@ -65,15 +65,15 @@ android {
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
-            resValue "string", "app_name", "Aurora Droid"
+            resValue "string", "app_name", "LeOS-Droid"
         }
         beta {
             initWith release
             applicationIdSuffix = ".beta"
-            resValue "string", "app_name", "Aurora Droid - Beta"
+            resValue "string", "app_name", "LeOS-Droid - Beta"
         }
         debug {
-            resValue "string", "app_name", "Aurora Droid - Debug"
+            resValue "string", "app_name", "LeOS-Droid - Debug"
         }
     }
 }
