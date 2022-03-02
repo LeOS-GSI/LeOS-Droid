@@ -15,7 +15,9 @@
 
 # Screenshots
 
-<img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss001.png" height="400"><img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss002.png" height="400">
-<img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss003.png" height="400"><img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss004.png" height="400">
+# Screenshots
+
+<img src="screenshots/photo_2022-03-02_12-46-33.jpg" height="400"><img src="screenshots/photo_2022-03-02_12-46-39.jpg" height="400">
+<img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss003.png" height="400"><img src="screenshots/repository" height="400">
 <img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss005.png" height="400"><img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss006.png" height="400">
 <br/><img src="https://www.gnu.org/graphics/gplv3-88x31.png" alt="GPL v3 Logo">
