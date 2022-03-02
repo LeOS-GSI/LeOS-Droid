@@ -15,8 +15,6 @@
 
 # Screenshots
 
-# Screenshots
-
-<img src="screenshots/photo_2022-03-02_12-46-33.jpg" height="400"><img src="screenshots/photo_2022-03-02_12-46-39.jpg" height="400">
-<img src="screenshots/repository.jpg" height="400">
+<img src="screenshots/photo_2022-03-02_12-46-33.jpg" height="400"><br>
+<img src="screenshots/repository.jpg" height="400"><br><img src="screenshots/photo_2022-03-02_12-46-39.jpg" height="400">
 <br/><img src="https://www.gnu.org/graphics/gplv3-88x31.png" alt="GPL v3 Logo">
