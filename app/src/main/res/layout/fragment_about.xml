@@ -76,7 +76,7 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="@dimen/margin_xsmall"
                     android:gravity="center_vertical"
-                    android:text="Reworked with ❤ in Autria"
+                    android:text="Reworked with ❤ in Austria"
                     android:textAppearance="@style/TextAppearance.Aurora.Line3" />
 
                 <TextView
