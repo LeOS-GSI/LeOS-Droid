@@ -204,7 +204,7 @@ public class InstallationFragment extends PreferenceFragmentCompat implements Sh
     private void showWarningDialog(@StringRes int message) {
         int backGroundColor = ViewUtil.getStyledAttribute(requireContext(), android.R.attr.colorBackground);
         MaterialAlertDialogBuilder builder = new MaterialAlertDialogBuilder(requireContext());
-        builder.setIcon(R.drawable.ic_undraw_unicorn);
+        builder.setIcon(R.mipmap.ic_undraw_unicorn);
         builder.setTitle(R.string.action_installations);
         builder.setMessage(message);
         builder.setPositiveButton(android.R.string.ok, (dialog, which) -> dialog.dismiss());
@@ -216,7 +216,7 @@ public class InstallationFragment extends PreferenceFragmentCompat implements Sh
     private void showServicesDialog() {
         int backGroundColor = ViewUtil.getStyledAttribute(requireContext(), android.R.attr.colorBackground);
         MaterialAlertDialogBuilder builder = new MaterialAlertDialogBuilder(requireContext());
-        builder.setIcon(R.drawable.ic_undraw_unicorn);
+        builder.setIcon(R.mipmap.ic_undraw_unicorn);
         builder.setTitle(R.string.action_installations);
         builder.setMessage(R.string.pref_install_mode_no_services);
         builder.setPositiveButton(android.R.string.ok, (dialog, which) -> dialog.dismiss());
