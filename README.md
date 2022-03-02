@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/kSApIjL.png" height="128" alt="Aurora Logo"><br/><img src="https://www.gnu.org/graphics/gplv3-88x31.png" alt="GPL v3 Logo">
+<img src="LeOSAvatar.jpg" height="128" alt="Aurora Logo">
 
 # LeOS-Droid: A F-Droid Client, based on AuroraDroid
 
@@ -18,3 +18,4 @@
 <img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss001.png" height="400"><img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss002.png" height="400">
 <img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss003.png" height="400"><img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss004.png" height="400">
 <img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss005.png" height="400"><img src="https://gitlab.com/AuroraOSS/AuroraDroid/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/ss006.png" height="400">
+<br/><img src="https://www.gnu.org/graphics/gplv3-88x31.png" alt="GPL v3 Logo">
