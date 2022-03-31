@@ -26,7 +26,7 @@ android {
     defaultConfig {
         multiDexEnabled true
 
-        applicationId "com.aurora.adroid"
+        applicationId "com.leos.adroid"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 8

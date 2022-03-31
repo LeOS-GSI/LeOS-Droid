@@ -32,11 +32,19 @@
   },
   {
     "repoId": "04",
-    "repoName": " LeOS apk's",
+    "repoName": " LeOS",
+    "repoUrl": "https://raw.githubusercontent.com/LeOS-GSI/repo/master/fdroid/repo",
+    "repoMirrors": [],
+    "repoFingerprint": "AA 39 7A A3 D6 6D E4 AF 62 EB EF 24 0C 8D F6 0D 50 8F 5D A3 08 0F 79 A7 EA B9 7A 48 DC E2 CE 7D",
+    "repoDescription": "Full ungoogled LeOS-Apps"
+  },
+  {
+    "repoId": "05",
+    "repoName": "Omega",
     "repoUrl": "https://raw.githubusercontent.com/nonaybay/newomega/master/fdroid/repo",
     "repoMirrors": [],
-    "repoFingerprint": "D1645F01472D9E5E6A8FABC462999B0CAAD6C0767F4E85A5330527BB299BB41E",
-    "repoDescription": "Omeg and friends repo with all ungoogled LeOS-Apps"
+    "repoFingerprint": "D1 64 5F 01 47 2D 9E 5E 6A 8F AB C4 62 99 9B 0C AA D6 C0 76 7F 4E 85 A5 33 05 27 BB 29 9B B4 1E",
+    "repoDescription": "Omeg and friends"
   },
   {
     "repoId": "07",
